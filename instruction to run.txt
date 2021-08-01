@@ -1,0 +1,1 @@
+open index.html in your web browser to run the code 
